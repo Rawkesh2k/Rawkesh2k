@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Rawkesh 👋</h1>
+  <h1>Hi, I'm Rakesh 👋</h1>
   <p><strong>Java Backend Developer · Spring Boot · Test Automation</strong></p>
   <p>Building reliable APIs, full-stack applications, and automation tools.</p>
   <p>
